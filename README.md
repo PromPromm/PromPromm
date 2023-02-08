@@ -6,11 +6,9 @@
 **Here's a quick summary about me**:
 
 - 😁 Hi, I’m Promise Falaye
-- 👀 I’m interested in software development, content creation and developing a career in tech
+- 👀 I’m interested in software development, technical writing and developing a career in tech
 - 🌱 I’m currently learning backend engineering
-- 📫I am a student of Altschool, Africa.
 - 😊 Pronouns: She/her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering] Class of 2022.
 - 🌱 I’m currently learning JavaScript, Flask, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
