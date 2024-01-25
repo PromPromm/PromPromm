@@ -1,8 +1,7 @@
 
 # Hello there; welcome 👋🏾
 
-[![Linkedin Badge](https://img.shields.io/badge/-promiseanuoluwa-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/promise-anuoluwa-0b6a65224)]( https://www.linkedin.com/in/promise-anuoluwa/) [![Twitter Badge](https://img.shields.io/badge/-@promiseanuoluwa-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/the_promzy)](https://twitter.com/thecodemedic)
-
+[![Linkedin Badge](https://img.shields.io/badge/-promiseanuoluwa-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/promise-anuoluwa-0b6a65224)]( https://www.linkedin.com/in/promise-anuoluwa/) 
 **Here's a quick summary about me**:
 
 - 😁 Hi, I’m Promise Falaye
