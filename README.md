@@ -2,6 +2,7 @@
 # Hello there; welcome 👋🏾
 
 [![Linkedin Badge](https://img.shields.io/badge/-promiseanuoluwa-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/promise-anuoluwa-0b6a65224)]( https://www.linkedin.com/in/promise-anuoluwa/) 
+
 **Here's a quick summary about me**:
 
 - 😁 Hi, I’m Promise Falaye
